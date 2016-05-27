@@ -32,7 +32,7 @@
 </head>
 <body>
 	<h1>plop</h1>
-	<p>francis est un héro</p>
+	<p>francis est grand</p>
 	<p><strong>francis a repeint mon parbrise :(</strong></p>
 	<form action="#" method="get" accept-charset="utf-8">
 		<input type="text" name="file" value="" placeholder="dossier a effacer">
